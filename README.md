@@ -10,5 +10,10 @@ Our process includes:
 4. Training and evaluation: Train the selected model on a labeled dataset and evaluate the model performance using metrics: accuracy, precision, recall, and F1 score.
 5. Results visualization: Visualize the model's predictions and performance metrics to better understand the model's strengths and weaknesses.
 
-Target:
+<div class='alert alert-primary' role='alert'>
+
+<b>Target:</b>
+
 We aim to have a trained model that can efficiently classify incoming SMS messages as spam or legitimate, helping to provide users with a cleaner and safer messaging experience, filtering out unwanted and potentially harmful content.
+
+</div>
