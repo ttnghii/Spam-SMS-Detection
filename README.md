@@ -1,2 +1,2 @@
 # Spam-SMS-Detection
-Nowadays, the number of unwanted messages people receive on their phones is increasing. This simple project will help people filter spam and harmful messages.
+Nowadays, the number of unwanted messages people receive on their phones is increasing. This simple project will apply machine learning techniques to automatically identify and classify text messages as either 'spam' and 'ham' (non-spam).
